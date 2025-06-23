@@ -1,9 +1,11 @@
 Objetivo
+
 Desarrollar e implementar una aplicación móvil que permita gestionar de forma eficiente las comandas de una cafeteria, facilitando el registro,
 edicion, visualización y sincronización de pedidos, tanto de manera local mediante SQLite como de forma remota a través de MySQL con el uso de clever cloud
 asegurando así una operación continua.
 
 Alcance del proyecto
+
 -La aplicación permitirá registrar nuevas comandas y editarlas, con datos como número de mesa, descripción del pedido, precio y estado.
 
 -Se podrán cambiar los estados de los pedidos entre "En preparación" y "Terminada".
