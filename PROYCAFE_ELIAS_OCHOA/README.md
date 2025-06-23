@@ -5,10 +5,15 @@ asegurando así una operación continua.
 
 Alcance del proyecto
 -La aplicación permitirá registrar nuevas comandas y editarlas, con datos como número de mesa, descripción del pedido, precio y estado.
+
 -Se podrán cambiar los estados de los pedidos entre "En preparación" y "Terminada".
+
 -La app cuenta con un sistema de sincronización bidireccional con un servidor MySQL, lo que permite mantener actualizadas las comandas entre dispositivos.
+
 -El diseño de la interfaz está pensado para ser intuitivo y adaptable a diferentes temas visuales.
+
 -Se incluye un panel de ayuda interactivo y personalización de apariencia mediante selección de temas.
+
 -El sistema no contempla por ahora autenticación de usuarios ni control de roles (meseros, cocina, administrador), pero puede ser ampliado fácilmente.
 
 Consultas útiles en MySQL
