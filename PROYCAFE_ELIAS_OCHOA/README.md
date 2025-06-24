@@ -20,18 +20,6 @@ Alcance del proyecto
 
 
 
-Consultas útiles en MySQL
-
-SELECT * FROM comanda ORDER BY id_comanda DESC;
-
-SELECT * FROM comanda WHERE estado = 'En preparación';
-
-DELETE FROM comanda WHERE estado = 'Terminada';
-
-SELECT * FROM comanda WHERE mesa = 3;
-
-
-
 
 Requerimientos técnicos
 
